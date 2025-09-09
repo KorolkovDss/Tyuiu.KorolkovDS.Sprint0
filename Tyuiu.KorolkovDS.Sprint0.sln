@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolkovDS.Sprint0.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{5EDA147E-3336-4354-AC33-1F22357564F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu,KorolkovDS.Sprint0.Task2.V0", "Tyuiu,KorolkovDS.Sprint0.Task2.V0\Tyuiu,KorolkovDS.Sprint0.Task2.V0.csproj", "{FD4B653B-0CE8-4338-A38C-331428E2FF1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolkovDS.Sprint0.Task2.V0", "Tyuiu,KorolkovDS.Sprint0.Task2.V0\Tyuiu.KorolkovDS.Sprint0.Task2.V0.csproj", "{FD4B653B-0CE8-4338-A38C-331428E2FF1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolkovDS.Sprint0.Task2.V0.Lib", "Tyuiu.KorolkovDS.Sprint0.Task2.V0.Lib\Tyuiu.KorolkovDS.Sprint0.Task2.V0.Lib.csproj", "{ECA6FDAC-8CE5-4539-A08B-C33B26AD45AC}"
 EndProject
